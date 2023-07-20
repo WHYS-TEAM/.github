@@ -1,1 +1,1 @@
-### We are WHYS
+### We are WHYs
