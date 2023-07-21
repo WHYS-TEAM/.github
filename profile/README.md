@@ -1,5 +1,7 @@
 ### We are WHYs
-* https://github.com/WHYS-TEAM
+* We are people who always think why.
+* We mainly focus on making our lives comfortable using artificial intelligence and machine learning.
+* https://github.com/WHYS-TEAM 
   * (private) Stock Alarm & Price Prediction
   * (private) Coin Alarm & Price Prediction
   * (private) Baseball(KBO) Win/Lose Prediction 
