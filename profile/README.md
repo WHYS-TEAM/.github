@@ -1,5 +1,6 @@
 ### We are WHYs
 * We are people who always think why.
+  * We find out the cause through 99 failures and make one success 
 * We mainly focus on making our lives comfortable using artificial intelligence and machine learning.
 * https://github.com/WHYS-TEAM 
   * (private) Stock Alarm & Price Prediction
